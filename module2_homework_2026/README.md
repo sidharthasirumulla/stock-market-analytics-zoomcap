@@ -4,7 +4,7 @@ This repository contains full solutions, code scripts, and detailed explanations
 
 ---
 
-## ðŸ“‹ Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
 - [Setup & Requirements](#setup--requirements)
@@ -18,7 +18,7 @@ This repository contains full solutions, code scripts, and detailed explanations
 
 ---
 
-## ðŸ“Œ Project Overview
+## Project Overview
 
 This assignment combines real-world financial data from multiple sources:
 1. **IPOScoop (`iposcoop.com`)**: Web scraping recently filed IPOs and 2025 historical pricings using `pandas.read_html()` and custom parsing algorithms.
@@ -27,7 +27,7 @@ This assignment combines real-world financial data from multiple sources:
 
 ---
 
-## ðŸ“ Repository Structure
+## Repository Structure
 
 ```text
 module2_homework_2026/
@@ -40,7 +40,7 @@ module2_homework_2026/
 
 ---
 
-## âš™ï¸ Setup & Requirements
+## Setup & Requirements
 
 Ensure you have Python 3.9+ installed along with the required analytical libraries:
 
@@ -54,7 +54,7 @@ pip install pandas numpy yfinance requests lxml pyarrow gdown
 
 ---
 
-## â“ Questions, Answers & Full Explanations
+## Questions, Answers & Full Explanations
 
 ---
 
@@ -205,7 +205,7 @@ To significantly enhance profitability, reduce drawdown, and eliminate "falling 
 
 ---
 
-## ðŸš€ Execution Guide
+## Execution Guide
 
 Run each solution script from your terminal:
 
